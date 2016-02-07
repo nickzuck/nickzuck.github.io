@@ -3,7 +3,7 @@ title: Nikhil Kumar Singh
 email: nikhil1945.singh@gmail.com
 url: https://nickzuck.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Back End Developer - Competitive Programming"
+skills: "Back End Development - Competitive Programming"
 meta_author: Singh Nikhil Kumar
 
 # Google webmaster tools
@@ -31,8 +31,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Nikhil Kumar Singh
+  location: "New Delhi, India"
   social: Around the Web
   credits: Credits
 
@@ -42,7 +42,7 @@ social:
     url: http://twitter.com/jekyllrb
   - title: facebook
     url:
-  - title: stack-overflow
+  - title: linkedin
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
     url: http://bitbucket.org/jekyll

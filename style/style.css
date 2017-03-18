@@ -1,9 +1,10 @@
 body{
     overflow-y: hidden;
+    font-family: 'PT Serif', serif;
 }
 section#main .jumbotron{
     height: calc(100vh) ;
-    background-color: #212121;
+    background-color: #1c2933;
 
 }
 
@@ -13,5 +14,5 @@ section#main .description{
     left: 0;
     width: 100%;
     height: 100% ;
-    color: white ;
+    color: white;
 }
